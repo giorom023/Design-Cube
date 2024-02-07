@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding: 50px;
+}
+.yvela{
+    background-color: chartreuse;
+    display: flex;
+    height: 90vh;
+    width: 100%;
+}
+.mainImage{
+    background-color: aqua;
+    height: 100%;
+    width: 30%;
+}
+.mainDiv{
+    width: 70%;
+    height: 100%;
+    background-color: blue;
+}
+
+.footerContainer{
+    width: 100%;
+    height: 15%;
+    background-color: rgb(223, 226, 43);
+}
+.centerConteiner{
+    width: 100%;
+    height: 70%;
+    background-color: rgb(3, 3, 3);
+}
+
+/*Footer*/
+.footer1{
+    width:50%;
+    height:50%;
+    background-color:pink;
+}
+.footer2{
+    width:100%;
+    height:50%;
+    background-color:crimson;
+}
+/*CenterDiv*/
+.TextDiv{
+    position: relative;
+    top: 225px;
+    left: 50px;
+    width: 40%;
+    height: 35%;
+    background-color: aqua;
+}
+.CenterimgDiv{
+    top: 222px;
+    left: 960px;
+    position: relative;
+    width: 24%;
+    height: 22%;
+    background-color: darkolivegreen;
+}
+/*Header*/
+.header{
+    width: 100%;
+    height: 15%;
+    background-color: blueviolet;
+}
+.Header1{
+    width: 25%;
+    height: 100%;
+    background-color: grey;
+}
+.Header2{
+    bottom: 123px;
+    left: 400px;
+    position: relative;
+    width: 36%;
+    height: 100%;
+    background-color: rgb(255, 0, 0);
+}
+.Header3{
+    position: relative;
+    bottom:247px;
+    left:946px;
+    width: 25%;
+    height: 100%;
+    background-color: grey;
+}
